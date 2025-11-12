@@ -32,4 +32,4 @@ jobs:
     - name: Es Lint 
       run: npm run lint 
     - name: Typecheck 
-      run: npm run typecheck 
+      run: npm run type-check 
